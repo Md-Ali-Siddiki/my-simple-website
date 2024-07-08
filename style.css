@@ -1,16 +1,19 @@
 .para{
     background-color: cadetblue;
     border: 5px solid rgb(205, 243, 252);
-    margin: 10px;
+    margin: 70px 300px 20px 300px;
     padding: 30px;
     border-radius: 13px;
-    max-width: 1000px;
+    text-align: center;
 }
 p{
     /* background-color: cornflowerblue; */
     color: rgb(191, 248, 229);
     font-size: 23px;
     padding: 3px;
+    text-align: center;
+    margin: 10px;
+    /* max-width: 1000px; */
 }
 h1{
     color: rgb(12, 85, 95);
